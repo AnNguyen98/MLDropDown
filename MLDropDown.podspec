@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MLDropDown"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary         = "A Material Design drop down"
 
   spec.description     = <<-DESC
