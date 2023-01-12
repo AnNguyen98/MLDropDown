@@ -1,10 +1,6 @@
 //
 //  NiceButton.swift
 //  DropDown
-//
-//  Created by Kevin Hirsch on 06/06/16.
-//  Copyright © 2016 Kevin Hirsch. All rights reserved.
-//
 
 import UIKit
 

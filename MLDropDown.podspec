@@ -19,6 +19,6 @@ Pod::Spec.new do |spec|
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   spec.source        = { :git => "https://annguyen98@github.com/AnNguyen98/MLDropDown.git", :tag => "#{spec.version}" }
-  spec.source_files  = "MLDropDown/**/*.{h,m,swift}"
+  spec.source_files  = "MLDropDown/**/*.{h,m,swift,xib}"
 
 end
